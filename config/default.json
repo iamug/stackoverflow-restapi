@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/stackoverflow-clone?readPreference=primary&ssl=false",
+  "jwtSecret": "!!!!!@@@@@#####$$$$$%%%%%"
+}
